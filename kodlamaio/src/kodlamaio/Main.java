@@ -23,7 +23,8 @@ public class Main {
 				0);
 		Course[] course = { course1, course2, course3 };
 
-		System.out.println("Öğrenciler");
+		System.out.println("Öğrenciler ");
+		
 
 		for (Student students : student) {
 
