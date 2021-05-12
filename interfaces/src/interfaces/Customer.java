@@ -7,6 +7,7 @@ public class Customer {
 	private String lastName;
 	
 	
+	
 	public Customer() {
 		
 	}
